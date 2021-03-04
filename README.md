@@ -1,6 +1,3 @@
-[![Svelte Drag & Drop Demo](https://cdn.loom.com/sessions/thumbnails/b02dc69fdb334011828406b5e0d1693b-with-play.gif)](https://www.loom.com/share/b02dc69fdb334011828406b5e0d1693b)
-
-
 # svelte app
 
 This is a trello-clone using svelte & material.
@@ -47,20 +44,6 @@ If you're building a single-page app (SPA) with multiple routes, sirv needs to b
 
 ```js
 "start": "sirv public --single"
-```
-
-## Using TypeScript
-
-This template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:
-
-```bash
-node scripts/setupTypeScript.js
-```
-
-Or remove the script via:
-
-```bash
-rm scripts/setupTypeScript.js
 ```
 
 ## Deploying to the web
