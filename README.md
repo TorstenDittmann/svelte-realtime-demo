@@ -1,6 +1,6 @@
 # svelte app
 
-This is a trello-clone using svelte & material.
+This is a demo app for the Appwrite realtime feature in preview stage.
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
